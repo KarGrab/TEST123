@@ -1,0 +1,17 @@
+git init - tworzy repozytorium git w obecnym katalogu
+
+git status
+
+git add (nzwa pliku) dodaje ten plik do obecnie budowanego commita
+
+git commit - m - zatwierdza
+
+git config --global user.email *(email)
+
+git config --get user.name "(name)"
+
+git config --get user.name
+
+git log
+
+git show
